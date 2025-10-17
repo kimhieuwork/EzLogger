@@ -1,0 +1,8 @@
+D:\KimHieu\EzLogger\bin\Debug\EzLogger.dll
+D:\KimHieu\EzLogger\bin\Debug\EzLogger.pdb
+D:\KimHieu\EzLogger\obj\Debug\EzLogger.csproj.AssemblyReference.cache
+D:\KimHieu\EzLogger\obj\Debug\EzLogger.LogViewerControl.resources
+D:\KimHieu\EzLogger\obj\Debug\EzLogger.csproj.GenerateResource.cache
+D:\KimHieu\EzLogger\obj\Debug\EzLogger.csproj.CoreCompileInputs.cache
+D:\KimHieu\EzLogger\obj\Debug\EzLogger.dll
+D:\KimHieu\EzLogger\obj\Debug\EzLogger.pdb
